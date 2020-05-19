@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1-minimal-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1-minimal-example/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-canvas-hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-canvas-hello-world/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-animated-image/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-animated-image/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-animation-timer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-animation-timer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-timeline/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-timeline/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-keyboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-keyboard/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-mouse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-mouse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5-money-game/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5-money-game/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

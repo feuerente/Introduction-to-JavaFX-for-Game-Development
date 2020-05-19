@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="1-minimal-example" />
+        <module name="4-keyboard" />
+        <module name="3-animated-image" />
+        <module name="4-mouse" />
+        <module name="2-canvas-hello-world" />
+        <module name="base" />
+        <module name="3-animation-timer" />
+        <module name="3-timeline" />
+        <module name="5-money-game" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
